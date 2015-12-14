@@ -1,4 +1,4 @@
-#!/usr/bin/perl -w
+#!/usr/bin/env perl
 package reinsert_wordalign;
 run() unless caller();
 

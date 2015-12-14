@@ -1,4 +1,4 @@
-#!/usr/bin/perl -w
+#!/usr/bin/env perl
 package recase_postprocess;
 
 run() unless caller();
